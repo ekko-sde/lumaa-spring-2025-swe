@@ -46,7 +46,8 @@ the front end is running in port:5173 the backend is runing in port 5000
 ## Salary Expectation
 
  **Expected Salary:** $4000 - $5000 USD / month (negotiable)
-Email:jud010@ucsd.edu
+ 
+ **Email:**  jud010@ucsd.edu
 ##  Demo Video
 
 (https://youtu.be/N0XkTJpJ8SI)
